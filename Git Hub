@@ -1,0 +1,7 @@
+
+   change origin...
+   git config remote.origin.url https://github.com/abc/abc.git
+
+   To see the existing URL just do:
+
+   git config remote.origin.url
